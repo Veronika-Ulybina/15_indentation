@@ -1,0 +1,153 @@
+
+.wrapper {
+  max-width: 1140px;
+  padding: 0 30px;
+  margin: 0 auto;
+}
+
+.article {
+  padding: 60px 0 50px;
+}
+
+.article__heading {
+  font-weight: 900;
+  font-size: 60px;
+  margin-bottom: 30px;
+}
+
+.article__text:not(:last-of-type) {
+  margin-bottom: 30px;
+}
+
+.article-body {
+  padding: 50px 0;
+}
+
+.inner {
+  background-color: #f1f1f1;
+  border-radius: 10px;
+  padding: 25px 45px;
+  margin: 0 -30px;
+}
+
+.inner__title {
+  font-weight: 700;
+  font-size: 44px;
+  margin-bottom: 20px;
+}
+
+.nav__list {
+  list-style-position: inside;
+  color: #02535f;
+}
+
+.list__item:not(:last-child) {
+  margin-bottom: 10px;
+}
+
+.list__link {
+  border-bottom: 1px solid #000;
+}
+
+.list__link:hover {
+  border-bottom: none;
+  color: #86b882;
+  transition: all 0.5s ease;
+}
+
+.first-item {
+  padding: 50px 0 25px;
+}
+
+.subtitle {
+  font-weight: 900;
+  font-size: 36px;
+}
+
+.first-item__subtitle {
+  margin-bottom: 30px;
+}
+
+.first-item__block:not(:last-child) {
+  margin-bottom: 30px;
+}
+
+.first-item__img {
+  float: left;
+}
+
+.first-item__content-margin {
+  max-width: 490px;
+  float: right;
+}
+
+.first-item__text:not(:last-child) {
+  margin-bottom: 30px;
+}
+
+.label {
+  font-weight: 700;
+}
+
+.first-item__content-padding {
+  max-width: 480px;
+  float: left;
+}
+
+.first-item__image {
+  float: right;
+}
+
+.second-item {
+  padding: 25px 0;
+}
+
+.second-item__subtitle {
+  margin-bottom: 30px;
+}
+
+.second-item__text:not(:last-child) {
+  margin-bottom: 30px;
+}
+
+.second-item__img {
+  display: block;
+  margin: 0 auto 30px auto;
+}
+
+.second-item__block {
+  border: 1px solid #000;
+  margin-bottom: 30px;
+}
+
+.second-item__footnote {
+  color: #5e5e5e;
+  padding: 15px 30px;
+}
+
+.third-item {
+  padding-top: 25px;
+}
+
+.third-item__subtitle {
+  margin-bottom: 30px;
+}
+
+.third-item__text {
+  margin-bottom: 30px;
+}
+
+.third-item__img {
+  display: block;
+  margin: 0 auto;
+}
+
+.third-item__img:not(:last-child) {
+  margin-bottom: 30px;
+}
+
+.list_margin_bottom {
+  margin-bottom: 30px;
+}
+
+
