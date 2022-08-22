@@ -1,12 +1,12 @@
 
+.article {
+  padding: 60px 0 50px;
+}
+
 .container {
   max-width: 1140px;
   padding: 0 30px;
   margin: 0 auto;
-}
-
-.article {
-  padding: 60px 0 50px;
 }
 
 .article__heading {
